@@ -1,0 +1,11 @@
+C:\Users\Jesus\source\repos\FilesEjercicio4\FilesEjercicio4\bin\Debug\netcoreapp2.1\FilesEjercicio4.deps.json
+C:\Users\Jesus\source\repos\FilesEjercicio4\FilesEjercicio4\bin\Debug\netcoreapp2.1\FilesEjercicio4.runtimeconfig.json
+C:\Users\Jesus\source\repos\FilesEjercicio4\FilesEjercicio4\bin\Debug\netcoreapp2.1\FilesEjercicio4.runtimeconfig.dev.json
+C:\Users\Jesus\source\repos\FilesEjercicio4\FilesEjercicio4\bin\Debug\netcoreapp2.1\FilesEjercicio4.dll
+C:\Users\Jesus\source\repos\FilesEjercicio4\FilesEjercicio4\bin\Debug\netcoreapp2.1\FilesEjercicio4.pdb
+C:\Users\Jesus\source\repos\FilesEjercicio4\FilesEjercicio4\obj\Debug\netcoreapp2.1\FilesEjercicio4.csprojAssemblyReference.cache
+C:\Users\Jesus\source\repos\FilesEjercicio4\FilesEjercicio4\obj\Debug\netcoreapp2.1\FilesEjercicio4.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\source\repos\FilesEjercicio4\FilesEjercicio4\obj\Debug\netcoreapp2.1\FilesEjercicio4.AssemblyInfoInputs.cache
+C:\Users\Jesus\source\repos\FilesEjercicio4\FilesEjercicio4\obj\Debug\netcoreapp2.1\FilesEjercicio4.AssemblyInfo.cs
+C:\Users\Jesus\source\repos\FilesEjercicio4\FilesEjercicio4\obj\Debug\netcoreapp2.1\FilesEjercicio4.dll
+C:\Users\Jesus\source\repos\FilesEjercicio4\FilesEjercicio4\obj\Debug\netcoreapp2.1\FilesEjercicio4.pdb

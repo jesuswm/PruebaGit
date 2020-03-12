@@ -1,0 +1,6 @@
+C:\Users\Jesus\source\repos\GráficoDeBarras\GráficoDeBarras\bin\Debug\GráficoDeBarras.dll
+C:\Users\Jesus\source\repos\GráficoDeBarras\GráficoDeBarras\bin\Debug\GráficoDeBarras.pdb
+C:\Users\Jesus\source\repos\GráficoDeBarras\GráficoDeBarras\obj\Debug\GráficoDeBarras.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\source\repos\GráficoDeBarras\GráficoDeBarras\obj\Debug\GráficoDeBarras.dll
+C:\Users\Jesus\source\repos\GráficoDeBarras\GráficoDeBarras\obj\Debug\GráficoDeBarras.pdb
+C:\Users\Jesus\source\repos\GráficoDeBarras\GráficoDeBarras\obj\Debug\GráficoDeBarras.csprojAssemblyReference.cache

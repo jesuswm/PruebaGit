@@ -1,0 +1,10 @@
+C:\Users\Jesus\source\repos\FilesEjercicio3\FilesEjercicio3\obj\Debug\FilesEjercicio3.csprojAssemblyReference.cache
+C:\Users\Jesus\source\repos\FilesEjercicio3\FilesEjercicio3\obj\Debug\FilesEjercicio3.Properties.Resources.resources
+C:\Users\Jesus\source\repos\FilesEjercicio3\FilesEjercicio3\obj\Debug\FilesEjercicio3.csproj.GenerateResource.cache
+C:\Users\Jesus\source\repos\FilesEjercicio3\FilesEjercicio3\obj\Debug\FilesEjercicio3.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\source\repos\FilesEjercicio3\FilesEjercicio3\bin\Debug\FilesEjercicio3.exe.config
+C:\Users\Jesus\source\repos\FilesEjercicio3\FilesEjercicio3\bin\Debug\FilesEjercicio3.exe
+C:\Users\Jesus\source\repos\FilesEjercicio3\FilesEjercicio3\bin\Debug\FilesEjercicio3.pdb
+C:\Users\Jesus\source\repos\FilesEjercicio3\FilesEjercicio3\obj\Debug\FilesEjercicio3.exe
+C:\Users\Jesus\source\repos\FilesEjercicio3\FilesEjercicio3\obj\Debug\FilesEjercicio3.pdb
+C:\Users\Jesus\source\repos\FilesEjercicio3\FilesEjercicio3\obj\Debug\FilesEjercicio3.Form1.resources

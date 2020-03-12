@@ -1,0 +1,7 @@
+C:\Users\Jesus\source\repos\Ejercicio6 Tema1\Ejercicio6 Tema1\obj\Debug\Ejercicio6 Tema1.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\source\repos\Ejercicio6 Tema1\Ejercicio6 Tema1\bin\Debug\Ejercicio6 Tema1.exe.config
+C:\Users\Jesus\source\repos\Ejercicio6 Tema1\Ejercicio6 Tema1\bin\Debug\Ejercicio6 Tema1.exe
+C:\Users\Jesus\source\repos\Ejercicio6 Tema1\Ejercicio6 Tema1\bin\Debug\Ejercicio6 Tema1.pdb
+C:\Users\Jesus\source\repos\Ejercicio6 Tema1\Ejercicio6 Tema1\obj\Debug\Ejercicio6 Tema1.exe
+C:\Users\Jesus\source\repos\Ejercicio6 Tema1\Ejercicio6 Tema1\obj\Debug\Ejercicio6 Tema1.pdb
+C:\Users\Jesus\source\repos\Ejercicio6 Tema1\Ejercicio6 Tema1\obj\Debug\Ejercicio6 Tema1.csprojAssemblyReference.cache

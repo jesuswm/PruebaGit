@@ -1,0 +1,14 @@
+C:\Users\Jesus\source\repos\Ejercicio4Servidores\Ejercicio4Servidores\bin\Debug\Ejercicio4Servidores.exe.config
+C:\Users\Jesus\source\repos\Ejercicio4Servidores\Ejercicio4Servidores\bin\Debug\Ejercicio4Servidores.exe
+C:\Users\Jesus\source\repos\Ejercicio4Servidores\Ejercicio4Servidores\bin\Debug\Ejercicio4Servidores.pdb
+C:\Users\Jesus\source\repos\Ejercicio4Servidores\Ejercicio4Servidores\obj\Debug\Ejercicio4Servidores.csprojAssemblyReference.cache
+C:\Users\Jesus\source\repos\Ejercicio4Servidores\Ejercicio4Servidores\obj\Debug\Ejercicio4Servidores.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\source\repos\Ejercicio4Servidores\Ejercicio4Servidores\obj\Debug\Ejercicio4Servidores.exe
+C:\Users\Jesus\source\repos\Ejercicio4Servidores\Ejercicio4Servidores\obj\Debug\Ejercicio4Servidores.pdb
+C:\Users\Jesús\source\repos\Ejercicio4Servidores\Ejercicio4Servidores\bin\Debug\Ejercicio4Servidores.exe.config
+C:\Users\Jesús\source\repos\Ejercicio4Servidores\Ejercicio4Servidores\bin\Debug\Ejercicio4Servidores.exe
+C:\Users\Jesús\source\repos\Ejercicio4Servidores\Ejercicio4Servidores\bin\Debug\Ejercicio4Servidores.pdb
+C:\Users\Jesús\source\repos\Ejercicio4Servidores\Ejercicio4Servidores\obj\Debug\Ejercicio4Servidores.csprojAssemblyReference.cache
+C:\Users\Jesús\source\repos\Ejercicio4Servidores\Ejercicio4Servidores\obj\Debug\Ejercicio4Servidores.csproj.CoreCompileInputs.cache
+C:\Users\Jesús\source\repos\Ejercicio4Servidores\Ejercicio4Servidores\obj\Debug\Ejercicio4Servidores.exe
+C:\Users\Jesús\source\repos\Ejercicio4Servidores\Ejercicio4Servidores\obj\Debug\Ejercicio4Servidores.pdb

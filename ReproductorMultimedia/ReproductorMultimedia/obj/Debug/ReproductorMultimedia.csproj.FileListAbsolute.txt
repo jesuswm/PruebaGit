@@ -1,0 +1,10 @@
+C:\Users\Jesus\source\repos\ReproductorMultimedia\ReproductorMultimedia\bin\Debug\ReproductorMultimedia.dll
+C:\Users\Jesus\source\repos\ReproductorMultimedia\ReproductorMultimedia\bin\Debug\ReproductorMultimedia.pdb
+C:\Users\Jesus\source\repos\ReproductorMultimedia\ReproductorMultimedia\obj\Debug\ReproductorMultimedia.UserControl1.resources
+C:\Users\Jesus\source\repos\ReproductorMultimedia\ReproductorMultimedia\obj\Debug\ReproductorMultimedia.csproj.GenerateResource.cache
+C:\Users\Jesus\source\repos\ReproductorMultimedia\ReproductorMultimedia\obj\Debug\ReproductorMultimedia.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\source\repos\ReproductorMultimedia\ReproductorMultimedia\obj\Debug\ReproductorMultimedia.dll
+C:\Users\Jesus\source\repos\ReproductorMultimedia\ReproductorMultimedia\obj\Debug\ReproductorMultimedia.pdb
+C:\Users\Jesus\source\repos\ReproductorMultimedia\ReproductorMultimedia\obj\Debug\ReproductorMultimedia.csprojAssemblyReference.cache
+C:\Users\Jesus\source\repos\ReproductorMultimedia\ReproductorMultimedia\obj\Debug\ReproductorMultimedia.Properties.Resources.resources
+C:\Users\Jesus\source\repos\ReproductorMultimedia\ReproductorMultimedia\obj\Debug\ReproductorMultimedia.Resource1.resources

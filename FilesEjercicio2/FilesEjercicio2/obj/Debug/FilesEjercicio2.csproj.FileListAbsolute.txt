@@ -1,0 +1,10 @@
+C:\Users\Jesus\source\repos\FilesEjercicio2\FilesEjercicio2\bin\Debug\FilesEjercicio2.exe.config
+C:\Users\Jesus\source\repos\FilesEjercicio2\FilesEjercicio2\bin\Debug\FilesEjercicio2.exe
+C:\Users\Jesus\source\repos\FilesEjercicio2\FilesEjercicio2\bin\Debug\FilesEjercicio2.pdb
+C:\Users\Jesus\source\repos\FilesEjercicio2\FilesEjercicio2\obj\Debug\FilesEjercicio2.csprojAssemblyReference.cache
+C:\Users\Jesus\source\repos\FilesEjercicio2\FilesEjercicio2\obj\Debug\FilesEjercicio2.Form1.resources
+C:\Users\Jesus\source\repos\FilesEjercicio2\FilesEjercicio2\obj\Debug\FilesEjercicio2.Properties.Resources.resources
+C:\Users\Jesus\source\repos\FilesEjercicio2\FilesEjercicio2\obj\Debug\FilesEjercicio2.csproj.GenerateResource.cache
+C:\Users\Jesus\source\repos\FilesEjercicio2\FilesEjercicio2\obj\Debug\FilesEjercicio2.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\source\repos\FilesEjercicio2\FilesEjercicio2\obj\Debug\FilesEjercicio2.exe
+C:\Users\Jesus\source\repos\FilesEjercicio2\FilesEjercicio2\obj\Debug\FilesEjercicio2.pdb

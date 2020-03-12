@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GráficoDeBarras", "GráficoDeBarras\GráficoDeBarras.csproj", "{97E0608B-380D-49FF-9534-05F08B77A2A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaGrafico", "PruebaGrafico\PruebaGrafico.csproj", "{93EBD4A9-9B40-489B-B209-47801AC29DAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97E0608B-380D-49FF-9534-05F08B77A2A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97E0608B-380D-49FF-9534-05F08B77A2A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97E0608B-380D-49FF-9534-05F08B77A2A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97E0608B-380D-49FF-9534-05F08B77A2A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93EBD4A9-9B40-489B-B209-47801AC29DAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93EBD4A9-9B40-489B-B209-47801AC29DAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93EBD4A9-9B40-489B-B209-47801AC29DAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93EBD4A9-9B40-489B-B209-47801AC29DAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D9DF0BD-0A8E-49A0-A72D-206AB527B46C}
+	EndGlobalSection
+EndGlobal

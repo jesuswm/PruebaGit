@@ -1,0 +1,7 @@
+C:\Users\Jesus\source\repos\Archivos\Archivos\bin\Debug\Archivos.exe.config
+C:\Users\Jesus\source\repos\Archivos\Archivos\bin\Debug\Archivos.exe
+C:\Users\Jesus\source\repos\Archivos\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Jesus\source\repos\Archivos\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\Jesus\source\repos\Archivos\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\source\repos\Archivos\Archivos\obj\Debug\Archivos.exe
+C:\Users\Jesus\source\repos\Archivos\Archivos\obj\Debug\Archivos.pdb

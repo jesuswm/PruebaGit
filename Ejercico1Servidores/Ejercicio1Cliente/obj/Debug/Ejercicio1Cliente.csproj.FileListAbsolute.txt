@@ -1,0 +1,11 @@
+C:\Users\Jesus\source\repos\Ejercico1Servidores\Ejercicio1Cliente\bin\Debug\Ejercicio1Cliente.exe.config
+C:\Users\Jesus\source\repos\Ejercico1Servidores\Ejercicio1Cliente\bin\Debug\Ejercicio1Cliente.exe
+C:\Users\Jesus\source\repos\Ejercico1Servidores\Ejercicio1Cliente\bin\Debug\Ejercicio1Cliente.pdb
+C:\Users\Jesus\source\repos\Ejercico1Servidores\Ejercicio1Cliente\obj\Debug\Ejercicio1Cliente.csprojAssemblyReference.cache
+C:\Users\Jesus\source\repos\Ejercico1Servidores\Ejercicio1Cliente\obj\Debug\Ejercicio1Cliente.Form1.resources
+C:\Users\Jesus\source\repos\Ejercico1Servidores\Ejercicio1Cliente\obj\Debug\Ejercicio1Cliente.Properties.Resources.resources
+C:\Users\Jesus\source\repos\Ejercico1Servidores\Ejercicio1Cliente\obj\Debug\Ejercicio1Cliente.csproj.GenerateResource.cache
+C:\Users\Jesus\source\repos\Ejercico1Servidores\Ejercicio1Cliente\obj\Debug\Ejercicio1Cliente.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\source\repos\Ejercico1Servidores\Ejercicio1Cliente\obj\Debug\Ejercicio1Cliente.exe
+C:\Users\Jesus\source\repos\Ejercico1Servidores\Ejercicio1Cliente\obj\Debug\Ejercicio1Cliente.pdb
+C:\Users\Jesus\source\repos\Ejercico1Servidores\Ejercicio1Cliente\obj\Debug\Ejercicio1Cliente.CambiarServidor.resources

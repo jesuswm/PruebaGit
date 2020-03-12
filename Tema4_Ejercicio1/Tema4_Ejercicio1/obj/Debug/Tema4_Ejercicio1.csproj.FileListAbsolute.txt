@@ -1,0 +1,7 @@
+C:\Users\Jesus\source\repos\Tema4_Ejercicio1\Tema4_Ejercicio1\bin\Debug\Tema4_Ejercicio1.exe.config
+C:\Users\Jesus\source\repos\Tema4_Ejercicio1\Tema4_Ejercicio1\bin\Debug\Tema4_Ejercicio1.exe
+C:\Users\Jesus\source\repos\Tema4_Ejercicio1\Tema4_Ejercicio1\bin\Debug\Tema4_Ejercicio1.pdb
+C:\Users\Jesus\source\repos\Tema4_Ejercicio1\Tema4_Ejercicio1\obj\Debug\Tema4_Ejercicio1.csprojAssemblyReference.cache
+C:\Users\Jesus\source\repos\Tema4_Ejercicio1\Tema4_Ejercicio1\obj\Debug\Tema4_Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\source\repos\Tema4_Ejercicio1\Tema4_Ejercicio1\obj\Debug\Tema4_Ejercicio1.exe
+C:\Users\Jesus\source\repos\Tema4_Ejercicio1\Tema4_Ejercicio1\obj\Debug\Tema4_Ejercicio1.pdb

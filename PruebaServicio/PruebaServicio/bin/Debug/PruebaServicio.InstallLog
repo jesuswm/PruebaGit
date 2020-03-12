@@ -1,0 +1,39 @@
+﻿Instalando ensamblado 'C:\Users\Jesus\source\repos\PruebaServicio\PruebaServicio\bin\Debug\PruebaServicio.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Jesus\source\repos\PruebaServicio\PruebaServicio\bin\Debug\PruebaServicio.InstallLog
+   assemblypath = C:\Users\Jesus\source\repos\PruebaServicio\PruebaServicio\bin\Debug\PruebaServicio.exe
+Instalando el servicio ServicioSimple...
+El servicio ServicioSimple se ha instalado correctamente.
+Creando el origen de EventLog ServicioSimple en el registro Application...
+Confirmando ensamblado 'C:\Users\Jesus\source\repos\PruebaServicio\PruebaServicio\bin\Debug\PruebaServicio.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Jesus\source\repos\PruebaServicio\PruebaServicio\bin\Debug\PruebaServicio.InstallLog
+   assemblypath = C:\Users\Jesus\source\repos\PruebaServicio\PruebaServicio\bin\Debug\PruebaServicio.exe
+Instalando ensamblado 'C:\Users\Jesus\source\repos\PruebaServicio\PruebaServicio\bin\Debug\PruebaServicio.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Jesus\source\repos\PruebaServicio\PruebaServicio\bin\Debug\PruebaServicio.InstallLog
+   assemblypath = C:\Users\Jesus\source\repos\PruebaServicio\PruebaServicio\bin\Debug\PruebaServicio.exe
+Instalando el servicio ServicioSimple...
+Creando el origen de EventLog ServicioSimple en el registro Application...
+Deshaciendo ensamblado 'C:\Users\Jesus\source\repos\PruebaServicio\PruebaServicio\bin\Debug\PruebaServicio.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Jesus\source\repos\PruebaServicio\PruebaServicio\bin\Debug\PruebaServicio.InstallLog
+   assemblypath = C:\Users\Jesus\source\repos\PruebaServicio\PruebaServicio\bin\Debug\PruebaServicio.exe
+Restaurando el registro de eventos al estado anterior para el origen ServicioSimple.
+Instalando ensamblado 'C:\Users\Jesus\source\repos\PruebaServicio\PruebaServicio\bin\Debug\PruebaServicio.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Jesus\source\repos\PruebaServicio\PruebaServicio\bin\Debug\PruebaServicio.InstallLog
+   assemblypath = C:\Users\Jesus\source\repos\PruebaServicio\PruebaServicio\bin\Debug\PruebaServicio.exe
+Instalando el servicio ServicioSimple...
+Creando el origen de EventLog ServicioSimple en el registro Application...
+Deshaciendo ensamblado 'C:\Users\Jesus\source\repos\PruebaServicio\PruebaServicio\bin\Debug\PruebaServicio.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Jesus\source\repos\PruebaServicio\PruebaServicio\bin\Debug\PruebaServicio.InstallLog
+   assemblypath = C:\Users\Jesus\source\repos\PruebaServicio\PruebaServicio\bin\Debug\PruebaServicio.exe
+Restaurando el registro de eventos al estado anterior para el origen ServicioSimple.

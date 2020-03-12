@@ -1,0 +1,10 @@
+C:\Users\Jesus\source\repos\Tema4(Form)Ejercicio5\Tema4(Form)Ejercicio5\bin\Debug\Tema4(Form)Ejercicio5.exe.config
+C:\Users\Jesus\source\repos\Tema4(Form)Ejercicio5\Tema4(Form)Ejercicio5\bin\Debug\Tema4(Form)Ejercicio5.exe
+C:\Users\Jesus\source\repos\Tema4(Form)Ejercicio5\Tema4(Form)Ejercicio5\bin\Debug\Tema4(Form)Ejercicio5.pdb
+C:\Users\Jesus\source\repos\Tema4(Form)Ejercicio5\Tema4(Form)Ejercicio5\obj\Debug\Tema4(Form)Ejercicio5.csprojAssemblyReference.cache
+C:\Users\Jesus\source\repos\Tema4(Form)Ejercicio5\Tema4(Form)Ejercicio5\obj\Debug\Tema4_Form_Ejercicio5.Form1.resources
+C:\Users\Jesus\source\repos\Tema4(Form)Ejercicio5\Tema4(Form)Ejercicio5\obj\Debug\Tema4_Form_Ejercicio5.Properties.Resources.resources
+C:\Users\Jesus\source\repos\Tema4(Form)Ejercicio5\Tema4(Form)Ejercicio5\obj\Debug\Tema4(Form)Ejercicio5.csproj.GenerateResource.cache
+C:\Users\Jesus\source\repos\Tema4(Form)Ejercicio5\Tema4(Form)Ejercicio5\obj\Debug\Tema4(Form)Ejercicio5.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\source\repos\Tema4(Form)Ejercicio5\Tema4(Form)Ejercicio5\obj\Debug\Tema4(Form)Ejercicio5.exe
+C:\Users\Jesus\source\repos\Tema4(Form)Ejercicio5\Tema4(Form)Ejercicio5\obj\Debug\Tema4(Form)Ejercicio5.pdb

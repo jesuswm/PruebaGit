@@ -1,0 +1,14 @@
+C:\Users\Jesus\source\repos\PracticaDi2ec\PracticaDi2ec\bin\Debug\PracticaDi2ec.exe.config
+C:\Users\Jesus\source\repos\PracticaDi2ec\PracticaDi2ec\bin\Debug\PracticaDi2ec.exe
+C:\Users\Jesus\source\repos\PracticaDi2ec\PracticaDi2ec\bin\Debug\PracticaDi2ec.pdb
+C:\Users\Jesus\source\repos\PracticaDi2ec\PracticaDi2ec\obj\Debug\PracticaDi2ec.csprojAssemblyReference.cache
+C:\Users\Jesus\source\repos\PracticaDi2ec\PracticaDi2ec\obj\Debug\PracticaDi2ec.Form1.resources
+C:\Users\Jesus\source\repos\PracticaDi2ec\PracticaDi2ec\obj\Debug\PracticaDi2ec.Properties.Resources.resources
+C:\Users\Jesus\source\repos\PracticaDi2ec\PracticaDi2ec\obj\Debug\PracticaDi2ec.csproj.GenerateResource.cache
+C:\Users\Jesus\source\repos\PracticaDi2ec\PracticaDi2ec\obj\Debug\PracticaDi2ec.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\source\repos\PracticaDi2ec\PracticaDi2ec\obj\Debug\PracticaDi2ec.exe
+C:\Users\Jesus\source\repos\PracticaDi2ec\PracticaDi2ec\obj\Debug\PracticaDi2ec.pdb
+C:\Users\Jesus\source\repos\PracticaDi2ec\PracticaDi2ec\bin\Debug\Text.dll
+C:\Users\Jesus\source\repos\PracticaDi2ec\PracticaDi2ec\bin\Debug\Text.pdb
+C:\Users\Jesus\source\repos\PracticaDi2ec\PracticaDi2ec\obj\Debug\PracticaDi2ec.csproj.CopyComplete
+C:\Users\Jesus\source\repos\PracticaDi2ec\PracticaDi2ec\obj\Debug\PracticaDi2ec.FormModal.resources

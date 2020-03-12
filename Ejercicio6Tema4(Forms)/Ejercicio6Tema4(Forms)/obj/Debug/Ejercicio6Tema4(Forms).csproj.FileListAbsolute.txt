@@ -1,0 +1,10 @@
+C:\Users\Jesus\source\repos\Ejercicio6Tema4(Forms)\Ejercicio6Tema4(Forms)\bin\Debug\Ejercicio6Tema4(Forms).exe.config
+C:\Users\Jesus\source\repos\Ejercicio6Tema4(Forms)\Ejercicio6Tema4(Forms)\bin\Debug\Ejercicio6Tema4(Forms).exe
+C:\Users\Jesus\source\repos\Ejercicio6Tema4(Forms)\Ejercicio6Tema4(Forms)\bin\Debug\Ejercicio6Tema4(Forms).pdb
+C:\Users\Jesus\source\repos\Ejercicio6Tema4(Forms)\Ejercicio6Tema4(Forms)\obj\Debug\Ejercicio6Tema4(Forms).csprojAssemblyReference.cache
+C:\Users\Jesus\source\repos\Ejercicio6Tema4(Forms)\Ejercicio6Tema4(Forms)\obj\Debug\Ejercicio6Tema4_Forms_.Form1.resources
+C:\Users\Jesus\source\repos\Ejercicio6Tema4(Forms)\Ejercicio6Tema4(Forms)\obj\Debug\Ejercicio6Tema4_Forms_.Properties.Resources.resources
+C:\Users\Jesus\source\repos\Ejercicio6Tema4(Forms)\Ejercicio6Tema4(Forms)\obj\Debug\Ejercicio6Tema4(Forms).csproj.GenerateResource.cache
+C:\Users\Jesus\source\repos\Ejercicio6Tema4(Forms)\Ejercicio6Tema4(Forms)\obj\Debug\Ejercicio6Tema4(Forms).csproj.CoreCompileInputs.cache
+C:\Users\Jesus\source\repos\Ejercicio6Tema4(Forms)\Ejercicio6Tema4(Forms)\obj\Debug\Ejercicio6Tema4(Forms).exe
+C:\Users\Jesus\source\repos\Ejercicio6Tema4(Forms)\Ejercicio6Tema4(Forms)\obj\Debug\Ejercicio6Tema4(Forms).pdb

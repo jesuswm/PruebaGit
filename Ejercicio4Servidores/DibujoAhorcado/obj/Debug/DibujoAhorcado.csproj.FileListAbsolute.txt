@@ -1,0 +1,12 @@
+C:\Users\Jesus\source\repos\Ejercicio4Servidores\DibujoAhorcado\bin\Debug\DibujoAhorcado.dll
+C:\Users\Jesus\source\repos\Ejercicio4Servidores\DibujoAhorcado\bin\Debug\DibujoAhorcado.pdb
+C:\Users\Jesus\source\repos\Ejercicio4Servidores\DibujoAhorcado\obj\Debug\DibujoAhorcado.csprojAssemblyReference.cache
+C:\Users\Jesus\source\repos\Ejercicio4Servidores\DibujoAhorcado\obj\Debug\DibujoAhorcado.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\source\repos\Ejercicio4Servidores\DibujoAhorcado\obj\Debug\DibujoAhorcado.dll
+C:\Users\Jesus\source\repos\Ejercicio4Servidores\DibujoAhorcado\obj\Debug\DibujoAhorcado.pdb
+C:\Users\Jesús\source\repos\Ejercicio4Servidores\DibujoAhorcado\bin\Debug\DibujoAhorcado.dll
+C:\Users\Jesús\source\repos\Ejercicio4Servidores\DibujoAhorcado\bin\Debug\DibujoAhorcado.pdb
+C:\Users\Jesús\source\repos\Ejercicio4Servidores\DibujoAhorcado\obj\Debug\DibujoAhorcado.csprojAssemblyReference.cache
+C:\Users\Jesús\source\repos\Ejercicio4Servidores\DibujoAhorcado\obj\Debug\DibujoAhorcado.csproj.CoreCompileInputs.cache
+C:\Users\Jesús\source\repos\Ejercicio4Servidores\DibujoAhorcado\obj\Debug\DibujoAhorcado.dll
+C:\Users\Jesús\source\repos\Ejercicio4Servidores\DibujoAhorcado\obj\Debug\DibujoAhorcado.pdb

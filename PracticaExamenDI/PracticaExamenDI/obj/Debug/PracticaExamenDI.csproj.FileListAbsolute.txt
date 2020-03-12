@@ -1,0 +1,11 @@
+C:\Users\Jesus\source\repos\PracticaExamenDI\PracticaExamenDI\bin\Debug\PracticaExamenDI.exe.config
+C:\Users\Jesus\source\repos\PracticaExamenDI\PracticaExamenDI\bin\Debug\PracticaExamenDI.exe
+C:\Users\Jesus\source\repos\PracticaExamenDI\PracticaExamenDI\bin\Debug\PracticaExamenDI.pdb
+C:\Users\Jesus\source\repos\PracticaExamenDI\PracticaExamenDI\obj\Debug\PracticaExamenDI.csprojAssemblyReference.cache
+C:\Users\Jesus\source\repos\PracticaExamenDI\PracticaExamenDI\obj\Debug\PracticaExamenDI.Form2.resources
+C:\Users\Jesus\source\repos\PracticaExamenDI\PracticaExamenDI\obj\Debug\PracticaExamenDI.Properties.Resources.resources
+C:\Users\Jesus\source\repos\PracticaExamenDI\PracticaExamenDI\obj\Debug\PracticaExamenDI.csproj.GenerateResource.cache
+C:\Users\Jesus\source\repos\PracticaExamenDI\PracticaExamenDI\obj\Debug\PracticaExamenDI.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\source\repos\PracticaExamenDI\PracticaExamenDI\obj\Debug\PracticaExamenDI.exe
+C:\Users\Jesus\source\repos\PracticaExamenDI\PracticaExamenDI\obj\Debug\PracticaExamenDI.pdb
+C:\Users\Jesus\source\repos\PracticaExamenDI\PracticaExamenDI\obj\Debug\PracticaExamenDI.Form1.resources

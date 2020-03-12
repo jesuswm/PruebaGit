@@ -1,0 +1,7 @@
+C:\Users\Jesus\source\repos\Ejercicio3Servidores\Ejercicio3Servidores\bin\Debug\Ejercicio3Servidores.exe.config
+C:\Users\Jesus\source\repos\Ejercicio3Servidores\Ejercicio3Servidores\bin\Debug\Ejercicio3Servidores.exe
+C:\Users\Jesus\source\repos\Ejercicio3Servidores\Ejercicio3Servidores\bin\Debug\Ejercicio3Servidores.pdb
+C:\Users\Jesus\source\repos\Ejercicio3Servidores\Ejercicio3Servidores\obj\Debug\Ejercicio3Servidores.csprojAssemblyReference.cache
+C:\Users\Jesus\source\repos\Ejercicio3Servidores\Ejercicio3Servidores\obj\Debug\Ejercicio3Servidores.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\source\repos\Ejercicio3Servidores\Ejercicio3Servidores\obj\Debug\Ejercicio3Servidores.exe
+C:\Users\Jesus\source\repos\Ejercicio3Servidores\Ejercicio3Servidores\obj\Debug\Ejercicio3Servidores.pdb

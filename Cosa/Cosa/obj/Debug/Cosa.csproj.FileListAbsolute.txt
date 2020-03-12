@@ -1,0 +1,7 @@
+C:\Users\Jesus\source\repos\Cosa\Cosa\bin\Debug\Cosa.exe.config
+C:\Users\Jesus\source\repos\Cosa\Cosa\bin\Debug\Cosa.exe
+C:\Users\Jesus\source\repos\Cosa\Cosa\bin\Debug\Cosa.pdb
+C:\Users\Jesus\source\repos\Cosa\Cosa\obj\Debug\Cosa.csprojAssemblyReference.cache
+C:\Users\Jesus\source\repos\Cosa\Cosa\obj\Debug\Cosa.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\source\repos\Cosa\Cosa\obj\Debug\Cosa.exe
+C:\Users\Jesus\source\repos\Cosa\Cosa\obj\Debug\Cosa.pdb

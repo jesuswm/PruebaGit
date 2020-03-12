@@ -1,0 +1,7 @@
+C:\Users\Jesus\source\repos\PracricaServMultiHilo\PracricaServMultiHilo\bin\Debug\PracricaServMultiHilo.exe.config
+C:\Users\Jesus\source\repos\PracricaServMultiHilo\PracricaServMultiHilo\bin\Debug\PracricaServMultiHilo.exe
+C:\Users\Jesus\source\repos\PracricaServMultiHilo\PracricaServMultiHilo\bin\Debug\PracricaServMultiHilo.pdb
+C:\Users\Jesus\source\repos\PracricaServMultiHilo\PracricaServMultiHilo\obj\Debug\PracricaServMultiHilo.csprojAssemblyReference.cache
+C:\Users\Jesus\source\repos\PracricaServMultiHilo\PracricaServMultiHilo\obj\Debug\PracricaServMultiHilo.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\source\repos\PracricaServMultiHilo\PracricaServMultiHilo\obj\Debug\PracricaServMultiHilo.exe
+C:\Users\Jesus\source\repos\PracricaServMultiHilo\PracricaServMultiHilo\obj\Debug\PracricaServMultiHilo.pdb

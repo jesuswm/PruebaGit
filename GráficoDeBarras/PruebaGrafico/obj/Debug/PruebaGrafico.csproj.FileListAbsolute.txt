@@ -1,0 +1,13 @@
+C:\Users\Jesus\source\repos\GráficoDeBarras\PruebaGrafico\bin\Debug\PruebaGrafico.exe.config
+C:\Users\Jesus\source\repos\GráficoDeBarras\PruebaGrafico\bin\Debug\PruebaGrafico.exe
+C:\Users\Jesus\source\repos\GráficoDeBarras\PruebaGrafico\bin\Debug\PruebaGrafico.pdb
+C:\Users\Jesus\source\repos\GráficoDeBarras\PruebaGrafico\obj\Debug\PruebaGrafico.csprojAssemblyReference.cache
+C:\Users\Jesus\source\repos\GráficoDeBarras\PruebaGrafico\obj\Debug\PruebaGrafico.Properties.Resources.resources
+C:\Users\Jesus\source\repos\GráficoDeBarras\PruebaGrafico\obj\Debug\PruebaGrafico.csproj.GenerateResource.cache
+C:\Users\Jesus\source\repos\GráficoDeBarras\PruebaGrafico\obj\Debug\PruebaGrafico.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\source\repos\GráficoDeBarras\PruebaGrafico\obj\Debug\PruebaGrafico.exe
+C:\Users\Jesus\source\repos\GráficoDeBarras\PruebaGrafico\obj\Debug\PruebaGrafico.pdb
+C:\Users\Jesus\source\repos\GráficoDeBarras\PruebaGrafico\bin\Debug\GráficoDeBarras.dll
+C:\Users\Jesus\source\repos\GráficoDeBarras\PruebaGrafico\bin\Debug\GráficoDeBarras.pdb
+C:\Users\Jesus\source\repos\GráficoDeBarras\PruebaGrafico\obj\Debug\PruebaGrafico.Form1.resources
+C:\Users\Jesus\source\repos\GráficoDeBarras\PruebaGrafico\obj\Debug\PruebaGrafico.csproj.CopyComplete

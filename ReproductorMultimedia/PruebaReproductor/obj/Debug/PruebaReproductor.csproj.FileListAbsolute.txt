@@ -1,0 +1,13 @@
+C:\Users\Jesus\source\repos\ReproductorMultimedia\PruebaReproductor\bin\Debug\PruebaReproductor.exe.config
+C:\Users\Jesus\source\repos\ReproductorMultimedia\PruebaReproductor\bin\Debug\PruebaReproductor.exe
+C:\Users\Jesus\source\repos\ReproductorMultimedia\PruebaReproductor\bin\Debug\PruebaReproductor.pdb
+C:\Users\Jesus\source\repos\ReproductorMultimedia\PruebaReproductor\bin\Debug\ReproductorMultimedia.dll
+C:\Users\Jesus\source\repos\ReproductorMultimedia\PruebaReproductor\bin\Debug\ReproductorMultimedia.pdb
+C:\Users\Jesus\source\repos\ReproductorMultimedia\PruebaReproductor\obj\Debug\PruebaReproductor.csprojAssemblyReference.cache
+C:\Users\Jesus\source\repos\ReproductorMultimedia\PruebaReproductor\obj\Debug\PruebaReproductor.Form1.resources
+C:\Users\Jesus\source\repos\ReproductorMultimedia\PruebaReproductor\obj\Debug\PruebaReproductor.Properties.Resources.resources
+C:\Users\Jesus\source\repos\ReproductorMultimedia\PruebaReproductor\obj\Debug\PruebaReproductor.csproj.GenerateResource.cache
+C:\Users\Jesus\source\repos\ReproductorMultimedia\PruebaReproductor\obj\Debug\PruebaReproductor.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\source\repos\ReproductorMultimedia\PruebaReproductor\obj\Debug\PruebaReproductor.csproj.CopyComplete
+C:\Users\Jesus\source\repos\ReproductorMultimedia\PruebaReproductor\obj\Debug\PruebaReproductor.exe
+C:\Users\Jesus\source\repos\ReproductorMultimedia\PruebaReproductor\obj\Debug\PruebaReproductor.pdb

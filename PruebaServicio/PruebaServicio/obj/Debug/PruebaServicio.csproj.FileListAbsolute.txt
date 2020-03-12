@@ -1,0 +1,10 @@
+C:\Users\Jesus\source\repos\PruebaServicio\PruebaServicio\bin\Debug\PruebaServicio.exe.config
+C:\Users\Jesus\source\repos\PruebaServicio\PruebaServicio\bin\Debug\PruebaServicio.exe
+C:\Users\Jesus\source\repos\PruebaServicio\PruebaServicio\bin\Debug\PruebaServicio.pdb
+C:\Users\Jesus\source\repos\PruebaServicio\PruebaServicio\obj\Debug\PruebaServicio.csprojAssemblyReference.cache
+C:\Users\Jesus\source\repos\PruebaServicio\PruebaServicio\obj\Debug\PruebaServicio.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\source\repos\PruebaServicio\PruebaServicio\obj\Debug\PruebaServicio.exe
+C:\Users\Jesus\source\repos\PruebaServicio\PruebaServicio\obj\Debug\PruebaServicio.pdb
+C:\Users\Jesus\source\repos\PruebaServicio\PruebaServicio\obj\Debug\PruebaServicio.ProjectInstaller.resources
+C:\Users\Jesus\source\repos\PruebaServicio\PruebaServicio\obj\Debug\PruebaServicio.ServicioSimple.resources
+C:\Users\Jesus\source\repos\PruebaServicio\PruebaServicio\obj\Debug\PruebaServicio.csproj.GenerateResource.cache

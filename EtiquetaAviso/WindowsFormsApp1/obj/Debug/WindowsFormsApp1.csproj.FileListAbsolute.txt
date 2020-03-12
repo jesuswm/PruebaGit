@@ -1,0 +1,13 @@
+C:\Users\Jesus\source\repos\EtiquetaAviso\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Jesus\source\repos\EtiquetaAviso\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Jesus\source\repos\EtiquetaAviso\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Jesus\source\repos\EtiquetaAviso\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Jesus\source\repos\EtiquetaAviso\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Jesus\source\repos\EtiquetaAviso\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Jesus\source\repos\EtiquetaAviso\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\source\repos\EtiquetaAviso\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Jesus\source\repos\EtiquetaAviso\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Jesus\source\repos\EtiquetaAviso\WindowsFormsApp1\bin\Debug\EtiquetaAviso.dll
+C:\Users\Jesus\source\repos\EtiquetaAviso\WindowsFormsApp1\bin\Debug\EtiquetaAviso.pdb
+C:\Users\Jesus\source\repos\EtiquetaAviso\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Jesus\source\repos\EtiquetaAviso\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete

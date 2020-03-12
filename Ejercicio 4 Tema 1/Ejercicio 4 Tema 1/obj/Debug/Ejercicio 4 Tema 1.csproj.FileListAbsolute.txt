@@ -1,0 +1,7 @@
+C:\Users\Jesus\source\repos\Ejercicio 4 Tema 1\Ejercicio 4 Tema 1\obj\Debug\Ejercicio 4 Tema 1.csprojAssemblyReference.cache
+C:\Users\Jesus\source\repos\Ejercicio 4 Tema 1\Ejercicio 4 Tema 1\obj\Debug\Ejercicio 4 Tema 1.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\source\repos\Ejercicio 4 Tema 1\Ejercicio 4 Tema 1\bin\Debug\Ejercicio 4 Tema 1.exe.config
+C:\Users\Jesus\source\repos\Ejercicio 4 Tema 1\Ejercicio 4 Tema 1\bin\Debug\Ejercicio 4 Tema 1.exe
+C:\Users\Jesus\source\repos\Ejercicio 4 Tema 1\Ejercicio 4 Tema 1\bin\Debug\Ejercicio 4 Tema 1.pdb
+C:\Users\Jesus\source\repos\Ejercicio 4 Tema 1\Ejercicio 4 Tema 1\obj\Debug\Ejercicio 4 Tema 1.exe
+C:\Users\Jesus\source\repos\Ejercicio 4 Tema 1\Ejercicio 4 Tema 1\obj\Debug\Ejercicio 4 Tema 1.pdb

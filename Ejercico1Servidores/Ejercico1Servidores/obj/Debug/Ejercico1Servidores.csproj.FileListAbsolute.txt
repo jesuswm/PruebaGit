@@ -1,0 +1,7 @@
+C:\Users\Jesus\source\repos\Ejercico1Servidores\Ejercico1Servidores\obj\Debug\Ejercico1Servidores.csprojAssemblyReference.cache
+C:\Users\Jesus\source\repos\Ejercico1Servidores\Ejercico1Servidores\obj\Debug\Ejercico1Servidores.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\source\repos\Ejercico1Servidores\Ejercico1Servidores\bin\Debug\Ejercico1Servidores.exe.config
+C:\Users\Jesus\source\repos\Ejercico1Servidores\Ejercico1Servidores\bin\Debug\Ejercico1Servidores.exe
+C:\Users\Jesus\source\repos\Ejercico1Servidores\Ejercico1Servidores\bin\Debug\Ejercico1Servidores.pdb
+C:\Users\Jesus\source\repos\Ejercico1Servidores\Ejercico1Servidores\obj\Debug\Ejercico1Servidores.exe
+C:\Users\Jesus\source\repos\Ejercico1Servidores\Ejercico1Servidores\obj\Debug\Ejercico1Servidores.pdb

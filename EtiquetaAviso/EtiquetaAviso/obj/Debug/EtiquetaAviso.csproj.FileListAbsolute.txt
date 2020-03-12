@@ -1,0 +1,8 @@
+C:\Users\Jesus\source\repos\EtiquetaAviso\EtiquetaAviso\bin\Debug\EtiquetaAviso.dll
+C:\Users\Jesus\source\repos\EtiquetaAviso\EtiquetaAviso\bin\Debug\EtiquetaAviso.pdb
+C:\Users\Jesus\source\repos\EtiquetaAviso\EtiquetaAviso\obj\Debug\EtiquetaAviso.csprojAssemblyReference.cache
+C:\Users\Jesus\source\repos\EtiquetaAviso\EtiquetaAviso\obj\Debug\EtiquetaAviso.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\source\repos\EtiquetaAviso\EtiquetaAviso\obj\Debug\EtiquetaAviso.dll
+C:\Users\Jesus\source\repos\EtiquetaAviso\EtiquetaAviso\obj\Debug\EtiquetaAviso.pdb
+C:\Users\Jesus\source\repos\EtiquetaAviso\EtiquetaAviso\obj\Debug\EtiquetaAviso.csproj.GenerateResource.cache
+C:\Users\Jesus\source\repos\EtiquetaAviso\EtiquetaAviso\obj\Debug\EtiquetaAviso.Properties.Resources.resources

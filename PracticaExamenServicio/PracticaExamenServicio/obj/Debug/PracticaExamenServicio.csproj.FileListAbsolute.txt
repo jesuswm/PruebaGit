@@ -1,0 +1,7 @@
+C:\Users\Jesus\source\repos\PracticaExamenServicio\PracticaExamenServicio\bin\Debug\PracticaExamenServicio.exe.config
+C:\Users\Jesus\source\repos\PracticaExamenServicio\PracticaExamenServicio\bin\Debug\PracticaExamenServicio.exe
+C:\Users\Jesus\source\repos\PracticaExamenServicio\PracticaExamenServicio\bin\Debug\PracticaExamenServicio.pdb
+C:\Users\Jesus\source\repos\PracticaExamenServicio\PracticaExamenServicio\obj\Debug\PracticaExamenServicio.csprojAssemblyReference.cache
+C:\Users\Jesus\source\repos\PracticaExamenServicio\PracticaExamenServicio\obj\Debug\PracticaExamenServicio.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\source\repos\PracticaExamenServicio\PracticaExamenServicio\obj\Debug\PracticaExamenServicio.exe
+C:\Users\Jesus\source\repos\PracticaExamenServicio\PracticaExamenServicio\obj\Debug\PracticaExamenServicio.pdb

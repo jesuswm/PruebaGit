@@ -1,0 +1,7 @@
+C:\Users\Jesus\source\repos\Pr_srv\Pr_srv\obj\Debug\Pr_srv.csprojAssemblyReference.cache
+C:\Users\Jesus\source\repos\Pr_srv\Pr_srv\obj\Debug\Pr_srv.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\source\repos\Pr_srv\Pr_srv\bin\Debug\Pr_srv.exe.config
+C:\Users\Jesus\source\repos\Pr_srv\Pr_srv\bin\Debug\Pr_srv.exe
+C:\Users\Jesus\source\repos\Pr_srv\Pr_srv\bin\Debug\Pr_srv.pdb
+C:\Users\Jesus\source\repos\Pr_srv\Pr_srv\obj\Debug\Pr_srv.exe
+C:\Users\Jesus\source\repos\Pr_srv\Pr_srv\obj\Debug\Pr_srv.pdb

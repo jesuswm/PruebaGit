@@ -1,0 +1,13 @@
+C:\Users\Jesus\source\repos\LabelTextBox\FormularioPrueba\bin\Debug\FormularioPrueba.exe.config
+C:\Users\Jesus\source\repos\LabelTextBox\FormularioPrueba\bin\Debug\FormularioPrueba.exe
+C:\Users\Jesus\source\repos\LabelTextBox\FormularioPrueba\bin\Debug\FormularioPrueba.pdb
+C:\Users\Jesus\source\repos\LabelTextBox\FormularioPrueba\obj\Debug\FormularioPrueba.csprojAssemblyReference.cache
+C:\Users\Jesus\source\repos\LabelTextBox\FormularioPrueba\obj\Debug\FormularioPrueba.Properties.Resources.resources
+C:\Users\Jesus\source\repos\LabelTextBox\FormularioPrueba\obj\Debug\FormularioPrueba.csproj.GenerateResource.cache
+C:\Users\Jesus\source\repos\LabelTextBox\FormularioPrueba\obj\Debug\FormularioPrueba.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\source\repos\LabelTextBox\FormularioPrueba\obj\Debug\FormularioPrueba.exe
+C:\Users\Jesus\source\repos\LabelTextBox\FormularioPrueba\obj\Debug\FormularioPrueba.pdb
+C:\Users\Jesus\source\repos\LabelTextBox\FormularioPrueba\bin\Debug\LabelTextBox.dll
+C:\Users\Jesus\source\repos\LabelTextBox\FormularioPrueba\bin\Debug\LabelTextBox.pdb
+C:\Users\Jesus\source\repos\LabelTextBox\FormularioPrueba\obj\Debug\FormularioPrueba.Form1.resources
+C:\Users\Jesus\source\repos\LabelTextBox\FormularioPrueba\obj\Debug\FormularioPrueba.csproj.CopyComplete

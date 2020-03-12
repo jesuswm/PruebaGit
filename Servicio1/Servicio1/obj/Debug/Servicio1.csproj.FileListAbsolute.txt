@@ -1,0 +1,10 @@
+C:\Users\Jesus\source\repos\Servicio1\Servicio1\obj\Debug\Servicio1.csprojAssemblyReference.cache
+C:\Users\Jesus\source\repos\Servicio1\Servicio1\obj\Debug\Servicio1.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\source\repos\Servicio1\Servicio1\bin\Debug\Servicio1.exe.config
+C:\Users\Jesus\source\repos\Servicio1\Servicio1\bin\Debug\Servicio1.exe
+C:\Users\Jesus\source\repos\Servicio1\Servicio1\bin\Debug\Servicio1.pdb
+C:\Users\Jesus\source\repos\Servicio1\Servicio1\obj\Debug\Servicio1.ProjectInstaller.resources
+C:\Users\Jesus\source\repos\Servicio1\Servicio1\obj\Debug\Servicio1.UnServicioDeTiempo.resources
+C:\Users\Jesus\source\repos\Servicio1\Servicio1\obj\Debug\Servicio1.csproj.GenerateResource.cache
+C:\Users\Jesus\source\repos\Servicio1\Servicio1\obj\Debug\Servicio1.exe
+C:\Users\Jesus\source\repos\Servicio1\Servicio1\obj\Debug\Servicio1.pdb

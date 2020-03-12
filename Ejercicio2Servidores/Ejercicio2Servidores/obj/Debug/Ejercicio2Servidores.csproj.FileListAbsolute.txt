@@ -1,0 +1,14 @@
+C:\Users\Jesus\source\repos\Ejercicio2Servidores\Ejercicio2Servidores\bin\Debug\Ejercicio2Servidores.exe.config
+C:\Users\Jesus\source\repos\Ejercicio2Servidores\Ejercicio2Servidores\bin\Debug\Ejercicio2Servidores.exe
+C:\Users\Jesus\source\repos\Ejercicio2Servidores\Ejercicio2Servidores\bin\Debug\Ejercicio2Servidores.pdb
+C:\Users\Jesus\source\repos\Ejercicio2Servidores\Ejercicio2Servidores\obj\Debug\Ejercicio2Servidores.csprojAssemblyReference.cache
+C:\Users\Jesus\source\repos\Ejercicio2Servidores\Ejercicio2Servidores\obj\Debug\Ejercicio2Servidores.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\source\repos\Ejercicio2Servidores\Ejercicio2Servidores\obj\Debug\Ejercicio2Servidores.exe
+C:\Users\Jesus\source\repos\Ejercicio2Servidores\Ejercicio2Servidores\obj\Debug\Ejercicio2Servidores.pdb
+C:\Users\Jesús\source\repos\Ejercicio2Servidores\Ejercicio2Servidores\bin\Debug\Ejercicio2Servidores.exe.config
+C:\Users\Jesús\source\repos\Ejercicio2Servidores\Ejercicio2Servidores\bin\Debug\Ejercicio2Servidores.exe
+C:\Users\Jesús\source\repos\Ejercicio2Servidores\Ejercicio2Servidores\bin\Debug\Ejercicio2Servidores.pdb
+C:\Users\Jesús\source\repos\Ejercicio2Servidores\Ejercicio2Servidores\obj\Debug\Ejercicio2Servidores.csprojAssemblyReference.cache
+C:\Users\Jesús\source\repos\Ejercicio2Servidores\Ejercicio2Servidores\obj\Debug\Ejercicio2Servidores.csproj.CoreCompileInputs.cache
+C:\Users\Jesús\source\repos\Ejercicio2Servidores\Ejercicio2Servidores\obj\Debug\Ejercicio2Servidores.exe
+C:\Users\Jesús\source\repos\Ejercicio2Servidores\Ejercicio2Servidores\obj\Debug\Ejercicio2Servidores.pdb

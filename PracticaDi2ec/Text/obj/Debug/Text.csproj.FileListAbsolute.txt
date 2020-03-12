@@ -1,0 +1,8 @@
+C:\Users\Jesus\source\repos\PracticaDi2ec\Text\bin\Debug\Text.dll
+C:\Users\Jesus\source\repos\PracticaDi2ec\Text\bin\Debug\Text.pdb
+C:\Users\Jesus\source\repos\PracticaDi2ec\Text\obj\Debug\Text.csprojAssemblyReference.cache
+C:\Users\Jesus\source\repos\PracticaDi2ec\Text\obj\Debug\Text.UserControl1.resources
+C:\Users\Jesus\source\repos\PracticaDi2ec\Text\obj\Debug\Text.csproj.GenerateResource.cache
+C:\Users\Jesus\source\repos\PracticaDi2ec\Text\obj\Debug\Text.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\source\repos\PracticaDi2ec\Text\obj\Debug\Text.dll
+C:\Users\Jesus\source\repos\PracticaDi2ec\Text\obj\Debug\Text.pdb

@@ -1,0 +1,13 @@
+C:\Users\Jesus\source\repos\Componente\Pruebas\bin\Debug\Pruebas.exe.config
+C:\Users\Jesus\source\repos\Componente\Pruebas\bin\Debug\Pruebas.exe
+C:\Users\Jesus\source\repos\Componente\Pruebas\bin\Debug\Pruebas.pdb
+C:\Users\Jesus\source\repos\Componente\Pruebas\obj\Debug\Pruebas.csprojAssemblyReference.cache
+C:\Users\Jesus\source\repos\Componente\Pruebas\obj\Debug\Pruebas.Properties.Resources.resources
+C:\Users\Jesus\source\repos\Componente\Pruebas\obj\Debug\Pruebas.csproj.GenerateResource.cache
+C:\Users\Jesus\source\repos\Componente\Pruebas\obj\Debug\Pruebas.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\source\repos\Componente\Pruebas\obj\Debug\Pruebas.exe
+C:\Users\Jesus\source\repos\Componente\Pruebas\obj\Debug\Pruebas.pdb
+C:\Users\Jesus\source\repos\Componente\Pruebas\bin\Debug\Componente.dll
+C:\Users\Jesus\source\repos\Componente\Pruebas\bin\Debug\Componente.pdb
+C:\Users\Jesus\source\repos\Componente\Pruebas\obj\Debug\Pruebas.Form1.resources
+C:\Users\Jesus\source\repos\Componente\Pruebas\obj\Debug\Pruebas.csproj.CopyComplete
